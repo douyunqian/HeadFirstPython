@@ -10,4 +10,9 @@ with open("a.pickle","rb") as f:
 
 p=[1,1,2,2,3,4,5,6,8,0,10,15]
 m=sorted(set(p))
+
+
+
+
+f="a"
 print(type(m))
